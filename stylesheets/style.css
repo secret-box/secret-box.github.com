@@ -1,0 +1,49 @@
+#header {
+  padding: 15px;
+  background-color: #1E90FF;
+  font-style: italic;
+  font-family: cursive;
+}
+
+#header h1 {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 100%;
+}
+
+#header .title {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 160%;
+}
+
+body {
+    font-size: 160%;
+}
+
+body .container p{
+    padding-top: 5px;
+}
+
+
+h2 {
+  font-size: 140%;
+  font-weight: normal;
+  background-color: #f7f7f7;
+  padding: 10px;
+  border-left: 5px solid #008000;
+}
+
+li {
+	padding-bottom: 5px;
+  font-size: 110%;
+}
+
+#about li {
+	padding-bottom: 5px;
+}
+
+#vim li {
+	padding-bottom: 5px;
+}
+
